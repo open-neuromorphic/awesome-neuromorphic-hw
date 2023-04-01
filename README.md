@@ -13,33 +13,34 @@ This repo collects papers, docs, codes about neuromorphic for anyone who wants t
   - [2017](#2017)
   - [2016](#2016)
   - [2015](#2015)
+  - [2013](#2013)
   
 ## Survey Papers
 
-- [[](https://arxiv.org/abs/2203.07006)] Spiking Neural Network Integrated Circuits: A Review of Trends and Future Directions.
+- [[IEEE-CICC](https://arxiv.org/abs/2203.07006)] Spiking Neural Network Integrated Circuits: A Review of Trends and Future Directions.
   
 ## Papers
 
 ### 2023
 
-- [[](https://arxiv.org/abs/2301.01905)] FireFly: A High-Throughput and Reconfigurable Hardware Accelerator for Spiking Neural Networks.
+- [[ArXiv](https://arxiv.org/abs/2301.01905)] FireFly: A High-Throughput and Reconfigurable Hardware Accelerator for Spiking Neural Networks.
 
 ### 2022
 
-- [[IEEE-ISSC](https://arxiv.org/abs/2208.09759)] ReckOn: A 28nm Sub-mm2 Task-Agnostic Spiking Recurrent Neural Network Processor Enabling On-Chip Learning over Second-Long Timescales.
+- [[IEEE-ISSCC](https://arxiv.org/abs/2208.09759)] ReckOn: A 28nm Sub-mm2 Task-Agnostic Spiking Recurrent Neural Network Processor Enabling On-Chip Learning over Second-Long Timescales.
 - [[DATE](https://arxiv.org/abs/2204.10687)] SNE: an Energy-Proportional Digital Accelerator for Sparse Event-Based Convolutions.
-- [[](https://arxiv.org/abs/2205.00778)] Sparse Compressed Spiking Neural Network Accelerator for Object Detection.
+- [[IEEE-TCAS-I](https://arxiv.org/abs/2205.00778)] Sparse Compressed Spiking Neural Network Accelerator for Object Detection.
 
 
 ### 2021
 
 - [[Frontiers](https://www.frontiersin.org/articles/10.3389/fnins.2021.664208/full)] μBrain: An Event-Driven and Fully Synthesizable Architecture for Spiking Neural Networks.
-- [[]()] The SpiNNaker 2 processing element architecture for hybrid digital neuromorphic computing.
+- [[ArXiv](https://arxiv.org/abs/2103.08392)] The SpiNNaker 2 processing element architecture for hybrid digital neuromorphic computing.
 
 ### 2020
 
-- [[](https://arxiv.org/abs/2006.12314)] Always-On, Sub-300-nW, Event-Driven Spiking Neural Network based on Spike-Driven Clock-Generation and Clock- and Power-Gating for an Ultra-Low-Power Intelligent Device.
-- [[]()] Tianjic: A unified and scalable chip bridging spike-based and continuous neural computation.
+- [[IEEE-A-SSCC)](https://arxiv.org/abs/2006.12314)] Always-On, Sub-300-nW, Event-Driven Spiking Neural Network based on Spike-Driven Clock-Generation and Clock- and Power-Gating for an Ultra-Low-Power Intelligent Device.
+- [[IEEE-JSSC](https://ieeexplore.ieee.org/document/8998338)] Tianjic: A unified and scalable chip bridging spike-based and continuous neural computation.
 
 
 ### 2019
@@ -50,18 +51,13 @@ This repo collects papers, docs, codes about neuromorphic for anyone who wants t
 ### 2018
 
 - [[IEEE-MICRO](https://redwood.berkeley.edu/wp-content/uploads/2021/08/Davies2018.pdf)] Loihi: A Neuromorphic Manycore Processor with On-Chip Learning.
-- [[IEEE-TBIOCAS]()] A Scalable Multicore Architecture With Heterogeneous Memory Structures for Dynamic Neuromorphic Asynchronous Processors (DYNAPs).
-
-### 2017
-
-
-### 2016
+- [[IEEE-TBioCAS]()] A Scalable Multicore Architecture With Heterogeneous Memory Structures for Dynamic Neuromorphic Asynchronous Processors (DYNAPs).
 
 
 ### 2015
 
 - [[IEEE-TCAD](https://redwood.berkeley.edu/wp-content/uploads/2021/08/Akopyan2015.pdf)] TrueNorth: Design and Tool Flow of a 65 mW 1 Million Neuron Programmable Neurosynaptic Chip.
-- [[]()] A reconfigurable on-line learning spiking neuromorphic processor comprising 256 neurons and 128K synapses.
+- [[Frontiers](https://www.frontiersin.org/articles/10.3389/fnins.2015.00141/full)] A reconfigurable on-line learning spiking neuromorphic processor comprising 256 neurons and 128K synapses.
 
 ### 2013
-- [[IEEE-MICRO]()] SpiNNaker: A 1-W 18-Core System-onChip for Massively-Parallel Neural Network Simulation.
+- [[IEEE-MICRO](https://ieeexplore.ieee.org/document/6515159)] SpiNNaker: A 1-W 18-Core System-onChip for Massively-Parallel Neural Network Simulation.
