@@ -33,22 +33,24 @@ This repo collects papers, docs, codes about neuromorphic for anyone who wants t
 
 ### 2021
 
-- [[](https://www.frontiersin.org/articles/10.3389/fnins.2021.664208/full)] μBrain: An Event-Driven and Fully Synthesizable Architecture for Spiking Neural Networks.
-
+- [[Frontiers](https://www.frontiersin.org/articles/10.3389/fnins.2021.664208/full)] μBrain: An Event-Driven and Fully Synthesizable Architecture for Spiking Neural Networks.
+- [[]()] The SpiNNaker 2 processing element architecture for hybrid digital neuromorphic computing.
 
 ### 2020
 
 - [[](https://arxiv.org/abs/2006.12314)] Always-On, Sub-300-nW, Event-Driven Spiking Neural Network based on Spike-Driven Clock-Generation and Clock- and Power-Gating for an Ultra-Low-Power Intelligent Device.
+- [[]()] Tianjic: A unified and scalable chip bridging spike-based and continuous neural computation.
 
 
 ### 2019
 
-- [[IEEE-TBIOCAS](https://arxiv.org/abs/1804.07858)] A 0.086-mm2 12.7-pJ/SOP 64k-Synapse 256-Neuron Online-Learning Digital Spiking Neuromorphic Processor in 28nm CMOS.
-- [[IEEE-TBIOCAS](https://arxiv.org/abs/1904.08513)] MorphIC: A 65-nm 738k-Synapse/mm2 Quad-Core Binary-Weight Digital Neuromorphic Processor With Stochastic Spike-Driven Online Learning.
+- [[IEEE-TBioCAS](https://arxiv.org/abs/1804.07858)] A 0.086-mm2 12.7-pJ/SOP 64k-Synapse 256-Neuron Online-Learning Digital Spiking Neuromorphic Processor in 28nm CMOS.
+- [[IEEE-TBioCAS](https://arxiv.org/abs/1904.08513)] MorphIC: A 65-nm 738k-Synapse/mm2 Quad-Core Binary-Weight Digital Neuromorphic Processor With Stochastic Spike-Driven Online Learning.
 
 ### 2018
 
 - [[IEEE-MICRO](https://redwood.berkeley.edu/wp-content/uploads/2021/08/Davies2018.pdf)] Loihi: A Neuromorphic Manycore Processor with On-Chip Learning.
+- [[IEEE-TBIOCAS]()] A Scalable Multicore Architecture With Heterogeneous Memory Structures for Dynamic Neuromorphic Asynchronous Processors (DYNAPs).
 
 ### 2017
 
@@ -59,3 +61,7 @@ This repo collects papers, docs, codes about neuromorphic for anyone who wants t
 ### 2015
 
 - [[IEEE-TCAD](https://redwood.berkeley.edu/wp-content/uploads/2021/08/Akopyan2015.pdf)] TrueNorth: Design and Tool Flow of a 65 mW 1 Million Neuron Programmable Neurosynaptic Chip.
+- [[]()] A reconfigurable on-line learning spiking neuromorphic processor comprising 256 neurons and 128K synapses.
+
+### 2013
+- [[IEEE-MICRO]()] SpiNNaker: A 1-W 18-Core System-onChip for Massively-Parallel Neural Network Simulation.
