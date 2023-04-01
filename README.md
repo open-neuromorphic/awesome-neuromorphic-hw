@@ -28,3 +28,5 @@ This repo collects papers, docs, codes about neuromorphic for anyone who wants t
 ### 2017
 ### 2016
 ### 2015
+
+- [[TCAD](https://redwood.berkeley.edu/wp-content/uploads/2021/08/Akopyan2015.pdf)], TrueNorth: Design and Tool Flow of a 65 mW 1 Million Neuron Programmable Neurosynaptic Chip,
