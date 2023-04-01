@@ -28,7 +28,7 @@ This repo collects papers, docs, codes about neuromorphic hardware for anyone wh
 ### 2022
 
 - [[IEEE-ISSCC](https://arxiv.org/abs/2208.09759)] ReckOn: A 28nm Sub-mm2 Task-Agnostic Spiking Recurrent Neural Network Processor Enabling On-Chip Learning over Second-Long Timescales. [[Verilog](https://github.com/chfrenkel/ReckON)]
-- [[DATE](https://arxiv.org/abs/2204.10687)] SNE: an Energy-Proportional Digital Accelerator for Sparse Event-Based Convolutions. [[SystemVerilog](https://github.com/pulp-platform/sne [[SystemVerilog](https://github.com/pulp-platform/sne]
+- [[DATE](https://arxiv.org/abs/2204.10687)] SNE: an Energy-Proportional Digital Accelerator for Sparse Event-Based Convolutions. [[SystemVerilog](https://github.com/pulp-platform/sne)]
 - [[IEEE-TCAS-I](https://arxiv.org/abs/2205.00778)] Sparse Compressed Spiking Neural Network Accelerator for Object Detection.
 
 
