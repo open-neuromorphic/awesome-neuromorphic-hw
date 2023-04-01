@@ -1,6 +1,6 @@
 # Awesome Neuromorphic Hardware [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-This repo collects papers, docs, codes about neuromorphic for anyone who wants to do research on it. We are continuously improving the project. Welcome to PR the works (papers, repositories) that are missed by the repo. Inspired by [awesome-model-quantization](https://github.com/htqin/awesome-model-quantization).
+This repo collects papers, docs, codes about neuromorphic hardware for anyone who wants to do research on it. We are continuously improving the project. Welcome to PR the works (papers, repositories) that are missed by the repo. Inspired by [awesome-model-quantization](https://github.com/htqin/awesome-model-quantization).
 
 - [Survey Papers](#Survey_Papers)
 - [Papers](#Papers)
