@@ -17,6 +17,7 @@ This repo collects papers, docs, codes about neuromorphic hardware for anyone wh
   - [2014](#2014)
   - [2013](#2013)
   - [2011](#2011)
+  - [2010](#2010)
   
 ## Survey Papers
 
