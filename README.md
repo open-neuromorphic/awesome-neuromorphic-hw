@@ -3,8 +3,6 @@
 This repo collects papers, docs, codes about neuromorphic hardware for anyone who wants to do research on it. We are continuously improving the project. Welcome to PR the works (papers, repositories) that are missed by the repo. Inspired by [awesome-model-quantization](https://github.com/htqin/awesome-model-quantization).
 
 - [Survey Papers](#Survey_Papers)
-  - [2022](#2022)
-  - [2019](#2019)
   
 - [Papers](#Papers)
   - [2023](#2023) 
@@ -22,12 +20,7 @@ This repo collects papers, docs, codes about neuromorphic hardware for anyone wh
   
 ## Survey Papers
 
-### 2022
-
 - [[IEEE-CICC](https://arxiv.org/abs/2203.07006)] Spiking Neural Network Integrated Circuits: A Review of Trends and Future Directions.
-
-### 2019 
-
 - [[ACM-JETCS](https://arxiv.org/abs/2005.01467)] Spiking Neural Networks Hardware Implementations and Challenges: a Survey.
   
 ## Papers
