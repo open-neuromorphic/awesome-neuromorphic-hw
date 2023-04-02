@@ -13,6 +13,7 @@ This repo collects papers, docs, codes about neuromorphic hardware for anyone wh
   - [2017](#2017)
   - [2016](#2016)
   - [2015](#2015)
+  - [2014](#2014)
   - [2013](#2013)
   
 ## Survey Papers
@@ -38,29 +39,38 @@ This repo collects papers, docs, codes about neuromorphic hardware for anyone wh
 
 - [[Frontiers](https://www.frontiersin.org/articles/10.3389/fnins.2021.664208/full)] μBrain: An Event-Driven and Fully Synthesizable Architecture for Spiking Neural Networks.
 - [[ArXiv](https://arxiv.org/abs/2103.08392)] The SpiNNaker 2 processing element architecture for hybrid digital neuromorphic computing.
+- [[IEEE-TCAS-I](https://ieeexplore.ieee.org/document/9546038)] A 5.28-mm² 4.5-pJ/SOP Energy-Efficient Spiking Neural Network Hardware With Reconfigurable High Processing Speed Neuron Core and Congestion-Aware Router.
 
 ### 2020
 
 - [[IEEE-A-SSCC](https://arxiv.org/abs/2006.12314)] Always-On, Sub-300-nW, Event-Driven Spiking Neural Network based on Spike-Driven Clock-Generation and Clock- and Power-Gating for an Ultra-Low-Power Intelligent Device.
 - [[IEEE-JSSC](https://ieeexplore.ieee.org/document/8998338)] Tianjic: A unified and scalable chip bridging spike-based and continuous neural computation.
 - [[IEEE-RAW](https://arxiv.org/abs/2004.06061)] FPGA Based Emulation Environment for Neuromorphic Architectures. [[Code](https://github.com/UA-RCL/RANC)]
+- [[IEEE-A-SSCC](https://ieeexplore.ieee.org/document/9336142)] 0.5V 4.8 pJ/SOP 0.93\mu \mathrm{W}$ Leakage/core Neuromorphic Processor with Asynchronous NoC and Reconfigurable LIF Neuron.
 
 
 ### 2019
 
 - [[IEEE-TBioCAS](https://arxiv.org/abs/1804.07858)] A 0.086-mm2 12.7-pJ/SOP 64k-Synapse 256-Neuron Online-Learning Digital Spiking Neuromorphic Processor in 28nm CMOS. [[ODIN](https://github.com/ChFrenkel/ODIN)][[TinyODIN](https://github.com/ChFrenkel/tinyODIN)]
 - [[IEEE-TBioCAS](https://arxiv.org/abs/1904.08513)] MorphIC: A 65-nm 738k-Synapse/mm2 Quad-Core Binary-Weight Digital Neuromorphic Processor With Stochastic Spike-Driven Online Learning.
+- [[IJSSC](https://ieeexplore.ieee.org/document/8588363)] A 4096-Neuron 1M-Synapse 3.8-pJ/SOP Spiking Neural Network With On-Chip STDP Learning and Sparse Weights in 10-nm FinFET CMOS.
+- [[IEEE-CICC](https://web.eecs.umich.edu/~zhengya/papers/cho_cicc19.pdf)] A 2048-Neuron Spiking Neural Network Accelerator With Neuro-Inspired Pruning And Asynchronous Network On Chip In 40nm CMOS.
 
 ### 2018
 
 - [[IEEE-MICRO](https://redwood.berkeley.edu/wp-content/uploads/2021/08/Davies2018.pdf)] Loihi: A Neuromorphic Manycore Processor with On-Chip Learning.
-- [[IEEE-TBioCAS]()] A Scalable Multicore Architecture With Heterogeneous Memory Structures for Dynamic Neuromorphic Asynchronous Processors (DYNAPs).
+- [[IEEE-TBioCAS](https://ieeexplore.ieee.org/document/8094868)] A Scalable Multicore Architecture With Heterogeneous Memory Structures for Dynamic Neuromorphic Asynchronous Processors (DYNAPs).
 
 
 ### 2015
 
 - [[IEEE-TCAD](https://redwood.berkeley.edu/wp-content/uploads/2021/08/Akopyan2015.pdf)] TrueNorth: Design and Tool Flow of a 65 mW 1 Million Neuron Programmable Neurosynaptic Chip.
 - [[Frontiers](https://www.frontiersin.org/articles/10.3389/fnins.2015.00141/full)] A reconfigurable on-line learning spiking neuromorphic processor comprising 256 neurons and 128K synapses.
+
+### 2014 
+
+- [[IEEE-BioCAS](https://ieeexplore.ieee.org/document/6981816)] A 65k-neuron 73-Mevents/s 22-pJ/event asynchronous micro-pipelined integrate-and-fire array transceiver.
+- [[IEEE-JPROC](https://ieeexplore.ieee.org/document/6805187)] Neurogrid: A Mixed-Analog-Digital Multichip System for Large-Scale Neural Simulations.
 
 ### 2013
 - [[IEEE-MICRO](https://ieeexplore.ieee.org/document/6515159)] SpiNNaker: A 1-W 18-Core System-onChip for Massively-Parallel Neural Network Simulation.
