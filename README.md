@@ -48,7 +48,7 @@ This repo collects papers, docs, codes about neuromorphic hardware for anyone wh
 
 ### 2019
 
-- [[IEEE-TBioCAS](https://arxiv.org/abs/1804.07858)] A 0.086-mm2 12.7-pJ/SOP 64k-Synapse 256-Neuron Online-Learning Digital Spiking Neuromorphic Processor in 28nm CMOS. [[Code](https://github.com/ChFrenkel/ODIN)]
+- [[IEEE-TBioCAS](https://arxiv.org/abs/1804.07858)] A 0.086-mm2 12.7-pJ/SOP 64k-Synapse 256-Neuron Online-Learning Digital Spiking Neuromorphic Processor in 28nm CMOS. [[ODIN](https://github.com/ChFrenkel/ODIN)][[TinyODIN](https://github.com/ChFrenkel/tinyODIN)]
 - [[IEEE-TBioCAS](https://arxiv.org/abs/1904.08513)] MorphIC: A 65-nm 738k-Synapse/mm2 Quad-Core Binary-Weight Digital Neuromorphic Processor With Stochastic Spike-Driven Online Learning.
 
 ### 2018
