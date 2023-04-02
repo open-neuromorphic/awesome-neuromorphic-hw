@@ -43,7 +43,7 @@ This repo collects papers, docs, codes about neuromorphic hardware for anyone wh
 
 - [[IEEE-A-SSCC](https://arxiv.org/abs/2006.12314)] Always-On, Sub-300-nW, Event-Driven Spiking Neural Network based on Spike-Driven Clock-Generation and Clock- and Power-Gating for an Ultra-Low-Power Intelligent Device.
 - [[IEEE-JSSC](https://ieeexplore.ieee.org/document/8998338)] Tianjic: A unified and scalable chip bridging spike-based and continuous neural computation.
-- [[IEEE-RAW](https://arxiv.org/abs/2004.06061)] FPGA Based Emulation Environment for Neuromorphic Architectures.
+- [[IEEE-RAW](https://arxiv.org/abs/2004.06061)] FPGA Based Emulation Environment for Neuromorphic Architectures. [[Code](https://github.com/UA-RCL/RANC)]
 
 
 ### 2019
