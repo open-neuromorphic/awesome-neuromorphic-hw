@@ -24,6 +24,8 @@ This repo collects papers, docs, codes about neuromorphic hardware for anyone wh
 ### 2023
 
 - [[ArXiv](https://arxiv.org/abs/2301.01905)] FireFly: A High-Throughput and Reconfigurable Hardware Accelerator for Spiking Neural Networks.
+- [[IEEE-ISCAS](https://arxiv.org/abs/2302.01015)] OpenSpike: An OpenRAM SNN Accelerator.
+- [[ArXiv](https://arxiv.org/abs/2212.01696)] THOR -- A Neuromorphic Processor with 7.29G TSOP2/mm2Js Energy-Throughput Efficiency.
 
 ### 2022
 
