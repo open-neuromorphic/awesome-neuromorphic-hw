@@ -35,7 +35,7 @@ This repo collects papers, docs, codes about neuromorphic hardware for anyone wh
 
 ### 2022
 
-- [[IEEE-ISSCC](https://arxiv.org/abs/2208.09759)] ReckOn: A 28nm Sub-mm2 Task-Agnostic Spiking Recurrent Neural Network Processor Enabling On-Chip Learning over Second-Long Timescales. [__`digital`__][[Code](https://github.com/chfrenkel/ReckON)]
+- [[IEEE-ISSCC](https://arxiv.org/abs/2208.09759)] ReckOn: A 28nm Sub-mm2 Task-Agnostic Spiking Recurrent Neural Network Processor Enabling On-Chip Learning over Second-Long Timescales. [__`digital-asic`__][[Code](https://github.com/chfrenkel/ReckON)]
 - [[DATE](https://arxiv.org/abs/2204.10687)] SNE: an Energy-Proportional Digital Accelerator for Sparse Event-Based Convolutions. [__`digital-asic`__][[Code](https://github.com/pulp-platform/sne)]
 - [[IEEE-TCAS-I](https://arxiv.org/abs/2205.00778)] Sparse Compressed Spiking Neural Network Accelerator for Object Detection. [__`digital-asic`__]
 
@@ -58,6 +58,7 @@ This repo collects papers, docs, codes about neuromorphic hardware for anyone wh
 - [[IEEE-A-SSCC](https://ieeexplore.ieee.org/document/9336142)] 0.5V 4.8 pJ/SOP 0.93μW Leakage/core Neuromorphic Processor with Asynchronous NoC and Reconfigurable LIF Neuron. [__`digital-asic`__]
 - [[IEEE-ISSCC](https://ieeexplore.ieee.org/document/9062979)] A 74 TMACS/W CMOS-RRAM Neurosynaptic Core with Dynamically Reconfigurable Dataflow and In-situ Transposable Weights for Probabilistic Graphical Models. [__`mixed-signal`__]
 - [[Springer-JCST](https://jcst.ict.ac.cn/fileup/1000-9000/PDF/2020-2-21-9686.pdf)] SIES: A Novel Implementation of Spiking Convolutional Neural Network Inference Engine on Field-Programmable Gate Array [__`digital-fpga`__]
+- [[IEEE/ACM-ISCA](https://users.cs.utah.edu/~rajeev/pubs/isca20s.pdf)] SpinalFlow: An Architecture and Dataflow Tailored for Spiking Neural Networks [__`digital-asic`__]
 
 
 ### 2019
