@@ -38,7 +38,8 @@ This repo collects papers, docs, codes about neuromorphic hardware for anyone wh
 - [[IEEE-ISSCC](https://arxiv.org/abs/2208.09759)] ReckOn: A 28nm Sub-mm2 Task-Agnostic Spiking Recurrent Neural Network Processor Enabling On-Chip Learning over Second-Long Timescales. [__`digital-asic`__][[Code](https://github.com/chfrenkel/ReckON)]
 - [[DATE](https://arxiv.org/abs/2204.10687)] SNE: an Energy-Proportional Digital Accelerator for Sparse Event-Based Convolutions. [__`digital-asic`__][[Code](https://github.com/pulp-platform/sne)]
 - [[IEEE-TCAS-I](https://arxiv.org/abs/2205.00778)] Sparse Compressed Spiking Neural Network Accelerator for Object Detection. [__`digital-asic`__]
-
+- [[IEEE-TCAD](https://arxiv.org/abs/2203.07516)] Skydiver: A Spiking Neural Network Accelerator Exploiting Spatio-Temporal Workload Balance [__`digital-fpga`__]
+- [[IEEE/ACM-DAC](https://mxhx7199.github.io/files/[DAC-2022]SATO_preprint.pdf)] SATO: spiking neural network acceleration via temporal-oriented dataflow and architecture [__`digital-asic`__]
 
 ### 2021
 
@@ -49,6 +50,8 @@ This repo collects papers, docs, codes about neuromorphic hardware for anyone wh
 - [[IEEE-TVLSI](https://ieeexplore.ieee.org/document/9855834)] Cerebron: A Reconfigurable Architecture for Spatiotemporal Sparse Spiking Neural Networks [__`digital-fpga`__]
 - [[ACM-TRTS](https://www.sfu.ca/~zhenman/files/C21-FPL2021-SyncNN.pdf)] SyncNN: Evaluating and Accelerating Spiking Neural Networks on FPGAs [__`digital-fpga`__][[Code](https://github.com/SFU-HiAccel/SyncNN)]
 - [[IEEE-FPL](https://www.comp.nus.edu.sg/~wongwf/papers/FPL_2021_FINAL.pdf)] DeepFire: Acceleration of Convolutional Spiking Neural Network on Modern Field Programmable Gate Arrays [__`digital-FPGA`__]
+- [[ACM-FPGA](https://dl.acm.org/doi/10.1145/3431920.3439283)] S2N2: A FPGA Accelerator for Streaming Spiking Neural Networks [__`digital-fpga`__]
+- [[IEEE-TCAS-I](https://ieeexplore.ieee.org/document/9336327)] A Fast and Energy-Efficient SNN Processor With Adaptive Clock/Event-Driven Computation Scheme and Online Learning [__`digital-fpga`__]
 
 ### 2020
 
