@@ -45,6 +45,7 @@ This repo collects papers, docs, codes about neuromorphic hardware for anyone wh
 - [[ArXiv](https://arxiv.org/abs/2103.08392)] The SpiNNaker 2 processing element architecture for hybrid digital neuromorphic computing. [__`digital-asic`__]
 - [[IEEE-TCAS-I](https://ieeexplore.ieee.org/document/9546038)] A 5.28-mm² 4.5-pJ/SOP Energy-Efficient Spiking Neural Network Hardware With Reconfigurable High Processing Speed Neuron Core and Congestion-Aware Router. [__`digital-asic`__]
 - [[IEEE-LSSC](https://arxiv.org/abs/2105.08217)] IMPULSE: A 65-nm Digital Compute-in-Memory Macro With Fused Weights and Membrane Potential for Spike-Based Sequential Learning Tasks. [__`digital-asic`__]
+- [[IEEE-TVLSI](https://ieeexplore.ieee.org/document/9855834)] Cerebron: A Reconfigurable Architecture for Spatiotemporal Sparse Spiking Neural Networks [__`digital-fpga`__]
 
 ### 2020
 
