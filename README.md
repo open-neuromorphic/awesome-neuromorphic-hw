@@ -72,7 +72,7 @@ This repo collects papers, docs, codes about neuromorphic hardware for anyone wh
 
 ### 2017 
 
-- [[IEEE-ISVLSI](https://ieeexplore.ieee.org/document/8008536)] A 3.43TOPS/W 48.9pJ/pixel 50.1nJ/classification 512 analog neuron sparse coding neural network with on-chip learning and classification in 40nm CMOS.
+- [[IEEE-ISVLSI](https://ieeexplore.ieee.org/document/8008536)] A 3.43TOPS/W 48.9pJ/pixel 50.1nJ/classification 512 analog neuron sparse coding neural network with on-chip learning and classification in 40nm CMOS. [__`mixed-signal`__]
 
 ### 2015
 
