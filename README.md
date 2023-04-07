@@ -59,6 +59,7 @@ This repo collects papers, docs, codes about neuromorphic hardware for anyone wh
 - [[IEEE-ISSCC](https://ieeexplore.ieee.org/document/9062979)] A 74 TMACS/W CMOS-RRAM Neurosynaptic Core with Dynamically Reconfigurable Dataflow and In-situ Transposable Weights for Probabilistic Graphical Models. [__`mixed-signal`__]
 - [[Springer-JCST](https://jcst.ict.ac.cn/fileup/1000-9000/PDF/2020-2-21-9686.pdf)] SIES: A Novel Implementation of Spiking Convolutional Neural Network Inference Engine on Field-Programmable Gate Array [__`digital-fpga`__]
 - [[IEEE/ACM-ISCA](https://users.cs.utah.edu/~rajeev/pubs/isca20s.pdf)] SpinalFlow: An Architecture and Dataflow Tailored for Spiking Neural Networks [__`digital-asic`__]
+- [[IEEE/ACM-ICCAD](https://dl.acm.org/doi/10.1145/3400302.3415608)] Encoding, model, and architecture: systematic optimization for spiking neural network in FPGAs [__`digital-fpga`__]
 
 
 ### 2019
