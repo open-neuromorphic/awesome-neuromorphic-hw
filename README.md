@@ -31,6 +31,7 @@ This repo collects papers, docs, codes about neuromorphic hardware for anyone wh
 - [[ArXiv](https://arxiv.org/abs/2301.01905)] FireFly: A High-Throughput and Reconfigurable Hardware Accelerator for Spiking Neural Networks. [__`digital-fpga`__]
 - [[IEEE-ISCAS](https://arxiv.org/abs/2302.01015)] OpenSpike: An OpenRAM SNN Accelerator. [__`mixed-signal`__][[Code](https://github.com/sfmth/OpenSpike)]
 - [[ArXiv](https://arxiv.org/abs/2212.01696)] THOR -- A Neuromorphic Processor with 7.29G TSOP2/mm2Js Energy-Throughput Efficiency. [__`digital-asic`__]
+- [[IEEE-TCAD](https://ieeexplore.ieee.org/document/9785601)] The Implementation and Optimization of Neuromorphic Hardware for Supporting Spiking Neural Networks With MLP and CNN Topologies [__`digital-fpga`__]
 
 ### 2022
 
