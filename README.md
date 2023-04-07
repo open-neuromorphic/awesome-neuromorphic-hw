@@ -48,6 +48,7 @@ This repo collects papers, docs, codes about neuromorphic hardware for anyone wh
 - [[IEEE-LSSC](https://arxiv.org/abs/2105.08217)] IMPULSE: A 65-nm Digital Compute-in-Memory Macro With Fused Weights and Membrane Potential for Spike-Based Sequential Learning Tasks. [__`digital-asic`__]
 - [[IEEE-TVLSI](https://ieeexplore.ieee.org/document/9855834)] Cerebron: A Reconfigurable Architecture for Spatiotemporal Sparse Spiking Neural Networks [__`digital-fpga`__]
 - [[ACM-TRTS](https://www.sfu.ca/~zhenman/files/C21-FPL2021-SyncNN.pdf)] SyncNN: Evaluating and Accelerating Spiking Neural Networks on FPGAs [__`digital-fpga`__][[Code](https://github.com/SFU-HiAccel/SyncNN)]
+- [[IEEE-FPL](https://www.comp.nus.edu.sg/~wongwf/papers/FPL_2021_FINAL.pdf)] DeepFire: Acceleration of Convolutional Spiking Neural Network on Modern Field Programmable Gate Arrays [__`digital-FPGA`__]
 
 ### 2020
 
