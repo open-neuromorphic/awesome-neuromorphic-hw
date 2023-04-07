@@ -52,7 +52,7 @@ This repo collects papers, docs, codes about neuromorphic hardware for anyone wh
 - [[IEEE-JSSC](https://ieeexplore.ieee.org/document/8998338)] Tianjic: A unified and scalable chip bridging spike-based and continuous neural computation. [__`digital-asic`__]
 - [[IEEE-RAW](https://arxiv.org/abs/2004.06061)] FPGA Based Emulation Environment for Neuromorphic Architectures. [__`digital-fpga`__][[Code](https://github.com/UA-RCL/RANC)]
 - [[IEEE-A-SSCC](https://ieeexplore.ieee.org/document/9336142)] 0.5V 4.8 pJ/SOP 0.93μW Leakage/core Neuromorphic Processor with Asynchronous NoC and Reconfigurable LIF Neuron. [__`digital-asic`__]
-- [[IEEE-ISSCC](https://ieeexplore.ieee.org/document/9062979)] A 74 TMACS/W CMOS-RRAM Neurosynaptic Core with Dynamically Reconfigurable Dataflow and In-situ Transposable Weights for Probabilistic Graphical Models. [__`mixed-signal__`]
+- [[IEEE-ISSCC](https://ieeexplore.ieee.org/document/9062979)] A 74 TMACS/W CMOS-RRAM Neurosynaptic Core with Dynamically Reconfigurable Dataflow and In-situ Transposable Weights for Probabilistic Graphical Models. [__`mixed-signal`__]
 
 
 ### 2019
