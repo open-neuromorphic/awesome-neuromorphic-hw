@@ -29,14 +29,14 @@ This repo collects papers, docs, codes about neuromorphic hardware for anyone wh
 ### 2023
 
 - [[ArXiv](https://arxiv.org/abs/2301.01905)] FireFly: A High-Throughput and Reconfigurable Hardware Accelerator for Spiking Neural Networks. [__`digital-fpga`__]
-- [[IEEE-ISCAS](https://arxiv.org/abs/2302.01015)] OpenSpike: An OpenRAM SNN Accelerator. [__`mixed-signal`__][[Code](https://github.com/sfmth/OpenSpike)]
+- [[IEEE-ISCAS](https://arxiv.org/abs/2302.01015)] OpenSpike: An OpenRAM SNN Accelerator. [__`mixed-signal`__][__`open-source`__][[Code](https://github.com/sfmth/OpenSpike)]
 - [[ArXiv](https://arxiv.org/abs/2212.01696)] THOR -- A Neuromorphic Processor with 7.29G TSOP2/mm2Js Energy-Throughput Efficiency. [__`digital-asic`__]
 - [[IEEE-TCAD](https://ieeexplore.ieee.org/document/9785601)] The Implementation and Optimization of Neuromorphic Hardware for Supporting Spiking Neural Networks With MLP and CNN Topologies [__`digital-fpga`__]
 
 ### 2022
 
-- [[IEEE-ISSCC](https://arxiv.org/abs/2208.09759)] ReckOn: A 28nm Sub-mm2 Task-Agnostic Spiking Recurrent Neural Network Processor Enabling On-Chip Learning over Second-Long Timescales. [__`digital-asic`__][[Code](https://github.com/chfrenkel/ReckON)]
-- [[DATE](https://arxiv.org/abs/2204.10687)] SNE: an Energy-Proportional Digital Accelerator for Sparse Event-Based Convolutions. [__`digital-asic`__][[Code](https://github.com/pulp-platform/sne)]
+- [[IEEE-ISSCC](https://arxiv.org/abs/2208.09759)] ReckOn: A 28nm Sub-mm2 Task-Agnostic Spiking Recurrent Neural Network Processor Enabling On-Chip Learning over Second-Long Timescales. [__`digital-asic`__][__`open-source`__][[Code](https://github.com/chfrenkel/ReckON)]
+- [[DATE](https://arxiv.org/abs/2204.10687)] SNE: an Energy-Proportional Digital Accelerator for Sparse Event-Based Convolutions. [__`digital-asic`__][__`open-source`__][[Code](https://github.com/pulp-platform/sne)]
 - [[IEEE-TCAS-I](https://arxiv.org/abs/2205.00778)] Sparse Compressed Spiking Neural Network Accelerator for Object Detection. [__`digital-asic`__]
 - [[IEEE-TCAD](https://arxiv.org/abs/2203.07516)] Skydiver: A Spiking Neural Network Accelerator Exploiting Spatio-Temporal Workload Balance [__`digital-fpga`__]
 - [[IEEE/ACM-DAC](https://mxhx7199.github.io/files/[DAC-2022]SATO_preprint.pdf)] SATO: spiking neural network acceleration via temporal-oriented dataflow and architecture [__`digital-asic`__]
@@ -67,7 +67,7 @@ This repo collects papers, docs, codes about neuromorphic hardware for anyone wh
 
 ### 2019
 
-- [[IEEE-TBioCAS](https://arxiv.org/abs/1804.07858)] A 0.086-mm2 12.7-pJ/SOP 64k-Synapse 256-Neuron Online-Learning Digital Spiking Neuromorphic Processor in 28nm CMOS. [__`digital-asic`__][[ODIN](https://github.com/ChFrenkel/ODIN)][[TinyODIN](https://github.com/ChFrenkel/tinyODIN)]
+- [[IEEE-TBioCAS](https://arxiv.org/abs/1804.07858)] A 0.086-mm2 12.7-pJ/SOP 64k-Synapse 256-Neuron Online-Learning Digital Spiking Neuromorphic Processor in 28nm CMOS. [__`digital-asic`__][__`open-source`__][[ODIN](https://github.com/ChFrenkel/ODIN)][[TinyODIN](https://github.com/ChFrenkel/tinyODIN)]
 - [[IEEE-TBioCAS](https://arxiv.org/abs/1904.08513)] MorphIC: A 65-nm 738k-Synapse/mm2 Quad-Core Binary-Weight Digital Neuromorphic Processor With Stochastic Spike-Driven Online Learning. [__`digital-asic`__]
 - [[IJSSC](https://ieeexplore.ieee.org/document/8588363)] A 4096-Neuron 1M-Synapse 3.8-pJ/SOP Spiking Neural Network With On-Chip STDP Learning and Sparse Weights in 10-nm FinFET CMOS. [__`digital-asic`__]
 - [[IEEE-CICC](https://web.eecs.umich.edu/~zhengya/papers/cho_cicc19.pdf)] A 2048-Neuron Spiking Neural Network Accelerator With Neuro-Inspired Pruning And Asynchronous Network On Chip In 40nm CMOS. [__`digital-asic`__]
