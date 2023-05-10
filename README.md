@@ -32,7 +32,8 @@ This repo collects papers, docs, codes about neuromorphic hardware for anyone wh
 - [[IEEE-ISCAS](https://arxiv.org/abs/2302.01015)] OpenSpike: An OpenRAM SNN Accelerator. [__`mixed-signal`__][__`open-source`__][[Code](https://github.com/sfmth/OpenSpike)]
 - [[ArXiv](https://arxiv.org/abs/2212.01696)] THOR -- A Neuromorphic Processor with 7.29G TSOP2/mm2Js Energy-Throughput Efficiency. [__`digital-asic`__]
 - [[IEEE-TCAD](https://ieeexplore.ieee.org/document/9785601)] The Implementation and Optimization of Neuromorphic Hardware for Supporting Spiking Neural Networks With MLP and CNN Topologies [__`digital-fpga`__]
-- [[ArXiv](https://arxiv.org/abs/2304.06793)] Speck: A Smart event-based Vision Sensor with a low latency 327K Neuron Convolutional Neuronal Network Processing Pipeline [__`digital-asic`__][__`async`__]
+- [[ArXiv](https://arxiv.org/abs/2304.06793)] Speck: A Smart event-based Vision Sensor with a low latency 327K Neuron Convolutional Neuronal Network Processing Pipeline. [__`digital-asic`__][__`async`__]
+- [[ArXiv](https://arxiv.org/abs/2305.05187)] DeepFire2: A Convolutional Spiking Neural Network Accelerator on FPGAs. [__`digital-fpga`__]
 
 ### 2022
 
