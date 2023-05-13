@@ -34,6 +34,7 @@ This repo collects papers, docs, codes about neuromorphic hardware for anyone wh
 - [[IEEE-TCAD](https://ieeexplore.ieee.org/document/9785601)] The Implementation and Optimization of Neuromorphic Hardware for Supporting Spiking Neural Networks With MLP and CNN Topologies [__`digital-fpga`__]
 - [[ArXiv](https://arxiv.org/abs/2304.06793)] Speck: A Smart event-based Vision Sensor with a low latency 327K Neuron Convolutional Neuronal Network Processing Pipeline. [__`digital-asic`__][__`async`__]
 - [[ArXiv](https://arxiv.org/abs/2305.05187)] DeepFire2: A Convolutional Spiking Neural Network Accelerator on FPGAs. [__`digital-fpga`__]
+- [[IEEE-JSSC](https://ieeexplore.ieee.org/abstract/document/10121702)] SNPU: An Energy-Efficient Spike Domain Deep-Neural-Network Processor With Two-Step Spike Encoding and Shift-and-Accumulation Unit. [__`digital-asic`__]
 
 ### 2022
 
