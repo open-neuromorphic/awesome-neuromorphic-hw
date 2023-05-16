@@ -21,8 +21,9 @@ This repo collects papers, docs, codes about neuromorphic hardware for anyone wh
   
 ## Survey Papers
 
-- [[IEEE-CICC](https://arxiv.org/abs/2203.07006)] Spiking Neural Network Integrated Circuits: A Review of Trends and Future Directions.
-- [[ACM-JETCS](https://arxiv.org/abs/2005.01467)] Spiking Neural Networks Hardware Implementations and Challenges: a Survey.
+- [[ProcIEEE](https://arxiv.org/abs/2106.01288)] Bottom-up and top-down approaches for the design of neuromorphic processing systems: Tradeoffs and synergies between natural and artificial intelligence, **2023**.
+- [[IEEE-CICC](https://arxiv.org/abs/2203.07006)] Spiking Neural Network Integrated Circuits: A Review of Trends and Future Directions, **2022**.
+- [[ACM-JETCS](https://arxiv.org/abs/2005.01467)] Spiking Neural Networks Hardware Implementations and Challenges: a Survey, **2020**.
   
 ## Papers
 
