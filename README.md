@@ -38,6 +38,7 @@ This repo collects papers, docs, codes about neuromorphic hardware for anyone wh
 - [[IEEE-JSSC](https://ieeexplore.ieee.org/abstract/document/10121702)] SNPU: An Energy-Efficient Spike Domain Deep-Neural-Network Processor With Two-Step Spike Encoding and Shift-and-Accumulation Unit. [__`digital-asic`__]
 - [[IEEE-ISSCC](https://ieeexplore.ieee.org/abstract/document/10067497)] C-DNN: A 24.5-85.8TOPS/W Complementary-Deep-Neural-Network Processor with Heterogeneous CNN/SNN Core Architecture and Forward-Gradient-Based Sparsity Generation. [__`digital-asic`__]
 - [[IEEE-CICC](https://ieeexplore.ieee.org/abstract/document/10121315)] A 22nm 0.43pJ/SOP Sparsity-Aware In-Memory Neuromorphic Computing System with Hybrid Spiking and Artificial Neural Network and Configurable Topology. [__`digital-asic`__][__`in-memory-computing`__]
+- [[IEEE-ISCAS](https://www.linkedin.com/posts/bo-wang-114b17a0_shenjing-npu-activity-7064489906835787776-zroT?utm_source=share&utm_medium=member_desktop)] 1.7pJ/SOP Neuromorphic Processor with Integrated Partial Sum Routers for In-Network Computing. [__`digital-asic`__]
 
 ### 2022
 
