@@ -40,6 +40,8 @@ This repo collects papers, docs, codes about neuromorphic hardware for anyone wh
 - [[IEEE-ISSCC](https://ieeexplore.ieee.org/abstract/document/10067497)] C-DNN: A 24.5-85.8TOPS/W Complementary-Deep-Neural-Network Processor with Heterogeneous CNN/SNN Core Architecture and Forward-Gradient-Based Sparsity Generation. [__`digital-asic`__]
 - [[IEEE-CICC](https://ieeexplore.ieee.org/abstract/document/10121315)] A 22nm 0.43pJ/SOP Sparsity-Aware In-Memory Neuromorphic Computing System with Hybrid Spiking and Artificial Neural Network and Configurable Topology. [__`digital-asic`__][__`in-memory-computing`__]
 - [[IEEE-ISCAS](https://www.linkedin.com/posts/bo-wang-114b17a0_shenjing-npu-activity-7064489906835787776-zroT?utm_source=share&utm_medium=member_desktop)] 1.7pJ/SOP Neuromorphic Processor with Integrated Partial Sum Routers for In-Network Computing. [__`digital-asic`__]
+- [[IEEE-JSSC](https://ieeexplore.ieee.org/abstract/document/10130013)] Neuro-CIM: ADC-Less Neuromorphic Computing-in-Memory Processor With Operation Gating/Stopping and Digital–Analog Networks. [__`digital-asic`__][__`mixed-signal`__]
+- [[IEEE-TCAS-II](https://ieeexplore.ieee.org/abstract/document/10129114)] Design of Time-Encoded Spiking Neural Networks in 7nm CMOS Technology. [__`digital-asic`__]
 
 ### 2022
 
