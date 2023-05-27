@@ -42,6 +42,7 @@ This repo collects papers, docs, codes about neuromorphic hardware for anyone wh
 - [[IEEE-ISCAS](https://www.linkedin.com/posts/bo-wang-114b17a0_shenjing-npu-activity-7064489906835787776-zroT?utm_source=share&utm_medium=member_desktop)] 1.7pJ/SOP Neuromorphic Processor with Integrated Partial Sum Routers for In-Network Computing. [__`digital-asic`__]
 - [[IEEE-JSSC](https://ieeexplore.ieee.org/abstract/document/10130013)] Neuro-CIM: ADC-Less Neuromorphic Computing-in-Memory Processor With Operation Gating/Stopping and Digital–Analog Networks. [__`digital-asic`__][__`mixed-signal`__]
 - [[IEEE-TCAS-II](https://ieeexplore.ieee.org/abstract/document/10129114)] Design of Time-Encoded Spiking Neural Networks in 7nm CMOS Technology. [__`digital-asic`__]
+- [[ArXiv](https://arxiv.org/abs/2305.16187)] A tunable and versatile 28nm FD-SOI crossbar output circuit for low power analog SNN inference with eNVM synapses. [__`mixed-signal`__][__`memristive`__]
 
 ### 2022
 
