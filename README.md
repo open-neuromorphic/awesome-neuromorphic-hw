@@ -43,7 +43,7 @@ This repo collects papers, docs, codes about neuromorphic hardware for anyone wh
 - [[IEEE-JSSC](https://ieeexplore.ieee.org/abstract/document/10130013)] Neuro-CIM: ADC-Less Neuromorphic Computing-in-Memory Processor With Operation Gating/Stopping and Digital–Analog Networks. [__`digital-asic`__][__`mixed-signal`__]
 - [[IEEE-TCAS-II](https://ieeexplore.ieee.org/abstract/document/10129114)] Design of Time-Encoded Spiking Neural Networks in 7nm CMOS Technology. [__`digital-asic`__]
 - [[ArXiv](https://arxiv.org/abs/2305.16187)] A tunable and versatile 28nm FD-SOI crossbar output circuit for low power analog SNN inference with eNVM synapses. [__`mixed-signal`__][__`memristive`__]
-- [[IEEE-TCAS-I](https://ieeexplore.ieee.org/abstract/document/10132492)] A 510μW 0.738-mm2 6.2-pJ/SOP Online Learning Multi-Topology SNN Processor with Unified Computation Engine in 40-nm CMOS. [__`digital-asic`__]
+- [[IEEE-TBioCAS](https://ieeexplore.ieee.org/abstract/document/10132492)] A 510μW 0.738-mm2 6.2-pJ/SOP Online Learning Multi-Topology SNN Processor with Unified Computation Engine in 40-nm CMOS. [__`digital-asic`__]
 
 ### 2022
 
