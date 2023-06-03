@@ -55,8 +55,8 @@ This repo collects papers, docs, codes about neuromorphic hardware for anyone wh
 
 ### 2021
 
-- [[Frontiers](https://www.frontiersin.org/articles/10.3389/fnins.2021.664208/full)] μBrain: An Event-Driven and Fully Synthesizable Architecture for Spiking Neural Networks. [__`digital`__][__`asic`__]
-- [[ArXiv](https://arxiv.org/abs/2103.08392)] The SpiNNaker 2 processing element architecture for hybrid digital neuromorphic computing. [__`digital`__][__`asic`__]
+- [[Frontiers](https://www.frontiersin.org/articles/10.3389/fnins.2021.664208/full)] μBrain: An Event-Driven and Fully Synthesizable Architecture for Spiking Neural Networks. [__`digital`__][__`asic`__][__`async`__]
+- [[ArXiv](https://arxiv.org/abs/2103.08392)] The SpiNNaker 2 processing element architecture for hybrid digital neuromorphic computing. [__`digital`__][__`asic`__][__`async`__]
 - [[IEEE-TCAS-I](https://ieeexplore.ieee.org/document/9546038)] A 5.28-mm² 4.5-pJ/SOP Energy-Efficient Spiking Neural Network Hardware With Reconfigurable High Processing Speed Neuron Core and Congestion-Aware Router. [__`digital`__][__`asic`__]
 - [[IEEE-LSSC](https://arxiv.org/abs/2105.08217)] IMPULSE: A 65-nm Digital Compute-in-Memory Macro With Fused Weights and Membrane Potential for Spike-Based Sequential Learning Tasks. [__`digital`__][__`asic`__]
 - [[IEEE-TVLSI](https://ieeexplore.ieee.org/document/9855834)] Cerebron: A Reconfigurable Architecture for Spatiotemporal Sparse Spiking Neural Networks [__`digital`__][__`fpga`__]
@@ -67,7 +67,7 @@ This repo collects papers, docs, codes about neuromorphic hardware for anyone wh
 
 ### 2020
 
-- [[IEEE-A-SSCC](https://arxiv.org/abs/2006.12314)] Always-On, Sub-300-nW, Event-Driven Spiking Neural Network based on Spike-Driven Clock-Generation and Clock- and Power-Gating for an Ultra-Low-Power Intelligent Device. [__`digital`__][__`asic`__]
+- [[IEEE-A-SSCC](https://arxiv.org/abs/2006.12314)] Always-On, Sub-300-nW, Event-Driven Spiking Neural Network based on Spike-Driven Clock-Generation and Clock- and Power-Gating for an Ultra-Low-Power Intelligent Device. [__`digital`__][__`asic`__][__`async`__]
 - [[IEEE-JSSC](https://ieeexplore.ieee.org/document/8998338)] Tianjic: A unified and scalable chip bridging spike-based and continuous neural computation. [__`digital`__][__`asic`__]
 - [[IEEE-RAW](https://arxiv.org/abs/2004.06061)] FPGA Based Emulation Environment for Neuromorphic Architectures. [__`digital`__][__`fpga`__][[Code](https://github.com/UA-RCL/RANC)]
 - [[IEEE-A-SSCC](https://ieeexplore.ieee.org/document/9336142)] 0.5V 4.8 pJ/SOP 0.93μW Leakage/core Neuromorphic Processor with Asynchronous NoC and Reconfigurable LIF Neuron. [__`digital`__][__`asic`__]
@@ -98,20 +98,20 @@ This repo collects papers, docs, codes about neuromorphic hardware for anyone wh
 
 ### 2015
 
-- [[IEEE-TCAD](https://redwood.berkeley.edu/wp-content/uploads/2021/08/Akopyan2015.pdf)] TrueNorth: Design and Tool Flow of a 65 mW 1 Million Neuron Programmable Neurosynaptic Chip. [__`digital`__][__`asic`__]
-- [[Frontiers](https://www.frontiersin.org/articles/10.3389/fnins.2015.00141/full)] A reconfigurable on-line learning spiking neuromorphic processor comprising 256 neurons and 128K synapses. [__`mixed-signal`__]
+- [[IEEE-TCAD](https://redwood.berkeley.edu/wp-content/uploads/2021/08/Akopyan2015.pdf)] TrueNorth: Design and Tool Flow of a 65 mW 1 Million Neuron Programmable Neurosynaptic Chip. [__`digital`__][__`asic`__][__`async`__]
+- [[Frontiers](https://www.frontiersin.org/articles/10.3389/fnins.2015.00141/full)] A reconfigurable on-line learning spiking neuromorphic processor comprising 256 neurons and 128K synapses. [__`mixed-signal`__][__`async`__]
 - [[IEEE-ISVLSI](http://vlsisp.engin.umich.edu/wp-content/uploads/sites/334/2017/11/kim-vlsi-2015.pdf)] A 640M pixel/s 3.65mW sparse event-driven neuromorphic object recognition processor with on-chip learning.
 - [[IEEE-TBioCAS](https://arxiv.org/pdf/1412.3233)] A Biological-Realtime Neuromorphic System in 28 nm CMOS Using Low-Leakage Switched Capacitor Circuits.
 
 ### 2014 
 
-- [[IEEE-BioCAS](https://ieeexplore.ieee.org/document/6981816)] A 65k-neuron 73-Mevents/s 22-pJ/event asynchronous micro-pipelined integrate-and-fire array transceiver.
+- [[IEEE-BioCAS](https://ieeexplore.ieee.org/document/6981816)] A 65k-neuron 73-Mevents/s 22-pJ/event asynchronous micro-pipelined integrate-and-fire array transceiver.[__`async`__]
 - [[IEEE-JPROC](https://ieeexplore.ieee.org/document/6805187)] Neurogrid: A Mixed-Analog-Digital Multichip System for Large-Scale Neural Simulations. [__`mixed-signal`__]
 - [[IEEE-TVLSI](https://ieeexplore.ieee.org/document/6701396)] Minitaur, an Event-Driven FPGA-Based Spiking Network Accelerator. [__`digital`__][__`fpga`__]
 
 ### 2013
 
-- [[IEEE-MICRO](https://ieeexplore.ieee.org/document/6515159)] SpiNNaker: A 1-W 18-Core System-onChip for Massively-Parallel Neural Network Simulation. [__`digital`__][__`asic`__]
+- [[IEEE-MICRO](https://ieeexplore.ieee.org/document/6515159)] SpiNNaker: A 1-W 18-Core System-onChip for Massively-Parallel Neural Network Simulation. [__`digital`__][__`asic`__][__`async`__]
 
 ### 2011
 
