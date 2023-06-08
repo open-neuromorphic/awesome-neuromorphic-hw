@@ -30,7 +30,7 @@ This repo collects papers, docs, codes about neuromorphic hardware for anyone wh
 
 ### 2023
 
-- [[ArXiv](https://arxiv.org/abs/2301.01905)] FireFly: A High-Throughput and Reconfigurable Hardware Accelerator for Spiking Neural Networks. [__`digital`__][__`fpga`__]
+- [[IEEE-TVLSI](https://arxiv.org/abs/2301.01905)] FireFly: A High-Throughput and Reconfigurable Hardware Accelerator for Spiking Neural Networks. [__`digital`__][__`fpga`__]
 - [[IEEE-ISCAS](https://arxiv.org/abs/2302.01015)] OpenSpike: An OpenRAM SNN Accelerator. [__`digital`__][__`asic`__][__`open-source`__][[Code](https://github.com/sfmth/OpenSpike)]
 - [[ArXiv](https://arxiv.org/abs/2212.01696)] THOR -- A Neuromorphic Processor with 7.29G TSOP2/mm2Js Energy-Throughput Efficiency. [__`digital`__][__`asic`__]
 - [[IEEE-TCAD](https://ieeexplore.ieee.org/document/9785601)] The Implementation and Optimization of Neuromorphic Hardware for Supporting Spiking Neural Networks With MLP and CNN Topologies [__`digital`__][__`fpga`__]
@@ -44,6 +44,7 @@ This repo collects papers, docs, codes about neuromorphic hardware for anyone wh
 - [[IEEE-TCAS-II](https://ieeexplore.ieee.org/abstract/document/10129114)] Design of Time-Encoded Spiking Neural Networks in 7nm CMOS Technology. [__`digital`__][__`asic`__]
 - [[ArXiv](https://arxiv.org/abs/2305.16187)] A tunable and versatile 28nm FD-SOI crossbar output circuit for low power analog SNN inference with eNVM synapses. [__`mixed-signal`__][__`memristive`__]
 - [[IEEE-TBioCAS](https://ieeexplore.ieee.org/abstract/document/10132492)] A 510μW 0.738-mm2 6.2-pJ/SOP Online Learning Multi-Topology SNN Processor with Unified Computation Engine in 40-nm CMOS. [__`digital`__][__`asic`__]
+- [[IEEE-TCAS-II](https://ieeexplore.ieee.org/abstract/document/10143982)] A 24.3μJ/Image SNN Accelerator for DVS-Gesture with WS-LOS Dataflow and Sparse Methods. [__`digital`__][__`asic`___]
 
 ### 2022
 
