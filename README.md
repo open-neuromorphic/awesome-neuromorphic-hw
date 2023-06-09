@@ -45,6 +45,7 @@ This repo collects papers, docs, codes about neuromorphic hardware for anyone wh
 - [[ArXiv](https://arxiv.org/abs/2305.16187)] A tunable and versatile 28nm FD-SOI crossbar output circuit for low power analog SNN inference with eNVM synapses. [__`mixed-signal`__][__`memristive`__]
 - [[IEEE-TBioCAS](https://ieeexplore.ieee.org/abstract/document/10132492)] A 510μW 0.738-mm2 6.2-pJ/SOP Online Learning Multi-Topology SNN Processor with Unified Computation Engine in 40-nm CMOS. [__`digital`__][__`asic`__]
 - [[IEEE-TCAS-II](https://ieeexplore.ieee.org/abstract/document/10143982)] A 24.3μJ/Image SNN Accelerator for DVS-Gesture with WS-LOS Dataflow and Sparse Methods. [__`digital`__][__`asic`___]
+- [[IEEE-ISSCC](https://ieeexplore.ieee.org/document/10067650)] 22.6 ANP-I: A 28nm 1.5pJ/SOP Asynchronous Spiking Neural Network Processor Enabling Sub-O.1 μJ/Sample On-Chip Learning for Edge-AI Applications. [__`digital`__][__`asic`__][__`async`__]
 
 ### 2022
 
