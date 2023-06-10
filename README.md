@@ -54,6 +54,7 @@ This repo collects papers, docs, codes about neuromorphic hardware for anyone wh
 - [[IEEE-TCAS-I](https://arxiv.org/abs/2205.00778)] Sparse Compressed Spiking Neural Network Accelerator for Object Detection. [__`digital`__][__`asic`__]
 - [[IEEE-TCAD](https://arxiv.org/abs/2203.07516)] Skydiver: A Spiking Neural Network Accelerator Exploiting Spatio-Temporal Workload Balance [__`digital`__][__`fpga`__]
 - [[IEEE/ACM-DAC](https://mxhx7199.github.io/files/[DAC-2022]SATO_preprint.pdf)] SATO: spiking neural network acceleration via temporal-oriented dataflow and architecture [__`digital`__][__`asic`__]
+- [[IEEE-JSSC](https://ieeexplore.ieee.org/abstract/document/9731795)] An 82nW 0.53pJ/SOP Clock-Free Spiking Neural Network with 40µs Latency for AloT Wake-Up Functions Using Ultimate-Event-Driven Bionic Architecture and Computing-in-Memory Technique. [__`digital`__][__`asic`__][__`async`__][__`imc`__]
 
 ### 2021
 
