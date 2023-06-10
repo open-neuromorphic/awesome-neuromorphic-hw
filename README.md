@@ -78,6 +78,7 @@ This repo collects papers, docs, codes about neuromorphic hardware for anyone wh
 - [[Springer-JCST](https://jcst.ict.ac.cn/fileup/1000-9000/PDF/2020-2-21-9686.pdf)] SIES: A Novel Implementation of Spiking Convolutional Neural Network Inference Engine on Field-Programmable Gate Array [__`digital`__][__`fpga`__]
 - [[IEEE/ACM-ISCA](https://users.cs.utah.edu/~rajeev/pubs/isca20s.pdf)] SpinalFlow: An Architecture and Dataflow Tailored for Spiking Neural Networks [__`digital`__][__`asic`__]
 - [[IEEE/ACM-ICCAD](https://dl.acm.org/doi/10.1145/3400302.3415608)] Encoding, model, and architecture: systematic optimization for spiking neural network in FPGAs [__`digital`__][__`fpga`__]
+- [[IEEE-JSSC](https://ieeexplore.ieee.org/abstract/document/9222208)] NeuroSLAM: A 65-nm 7.25-to-8.79-TOPS/W Mixed-Signal Oscillator-Based SLAM Accelerator for Edge Robotics. [__`mixed-signal`__][__`asic`__]
 
 
 ### 2019
