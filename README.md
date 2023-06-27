@@ -47,7 +47,8 @@ This repo collects papers, docs, codes about neuromorphic hardware for anyone wh
 - [[IEEE-TCAS-II](https://ieeexplore.ieee.org/abstract/document/10143982)] A 24.3μJ/Image SNN Accelerator for DVS-Gesture with WS-LOS Dataflow and Sparse Methods. [__`digital`__][__`asic`___]
 - [[IEEE-ISSCC](https://ieeexplore.ieee.org/document/10067650)] 22.6 ANP-I: A 28nm 1.5pJ/SOP Asynchronous Spiking Neural Network Processor Enabling Sub-O.1 μJ/Sample On-Chip Learning for Edge-AI Applications. [__`digital`__][__`asic`__][__`async`__]
 - [[IEEE-TCAD](https://ieeexplore-ieee-org.ezproxy.biblio.polito.it/document/9914608)] SATA: Sparsity-Aware Training Accelerator for Spiking Neural Networks [__`digital`__][__`asic`__] 
-- [[IEEE-COOL-CHIPS](https://ieeexplore.ieee.org/document/10121940)] COOL-NPU: Complementary Online Learning Neural Processing Unit with CNN-SNN Heterogeneous Core and Event-driven Backpropagation. 
+- [[IEEE-COOL-CHIPS](https://ieeexplore.ieee.org/document/10121940)] COOL-NPU: Complementary Online Learning Neural Processing Unit with CNN-SNN Heterogeneous Core and Event-driven Backpropagation.
+- [[IEEE-TCAS-I](https://ieeexplore.ieee.org/abstract/document/10160227)] An 82-nW 0.53-pJ/SOP Clock-Free Spiking Neural Network With 40- μ s Latency for AIoT Wake-Up Functions Using a Multilevel-Event-Driven Bionic Architecture and Computing-in-Memory Technique. [__`async`__][__`asic`__][__`imc`__][__`mixed-signal`__]
 
 ### 2022
 
