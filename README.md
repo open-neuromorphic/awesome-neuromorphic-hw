@@ -34,7 +34,6 @@ This repo collects papers, docs, codes about neuromorphic hardware for anyone wh
 - [[IEEE-ISCAS](https://arxiv.org/abs/2302.01015)] OpenSpike: An OpenRAM SNN Accelerator. [__`digital`__][__`asic`__][__`open-source`__][[Code](https://github.com/sfmth/OpenSpike)]
 - [[ArXiv](https://arxiv.org/abs/2212.01696)] THOR -- A Neuromorphic Processor with 7.29G TSOP2/mm2Js Energy-Throughput Efficiency. [__`digital`__][__`asic`__]
 - [[IEEE-TCAD](https://ieeexplore.ieee.org/document/9785601)] The Implementation and Optimization of Neuromorphic Hardware for Supporting Spiking Neural Networks With MLP and CNN Topologies [__`digital`__][__`fpga`__]
-- [[ArXiv](https://arxiv.org/abs/2304.06793)] Speck: A Smart event-based Vision Sensor with a low latency 327K Neuron Convolutional Neuronal Network Processing Pipeline. [__`digital`__][__`asic`__][__`async`__]
 - [[ArXiv](https://arxiv.org/abs/2305.05187)] DeepFire2: A Convolutional Spiking Neural Network Accelerator on FPGAs. [__`digital`__][__`fpga`__]
 - [[IEEE-JSSC](https://ieeexplore.ieee.org/abstract/document/10121702)] SNPU: An Energy-Efficient Spike Domain Deep-Neural-Network Processor With Two-Step Spike Encoding and Shift-and-Accumulation Unit. [__`digital`__][__`asic`__]
 - [[IEEE-ISSCC](https://ieeexplore.ieee.org/abstract/document/10067497)] C-DNN: A 24.5-85.8TOPS/W Complementary-Deep-Neural-Network Processor with Heterogeneous CNN/SNN Core Architecture and Forward-Gradient-Based Sparsity Generation. [__`digital`__][__`asic`__]
@@ -46,7 +45,7 @@ This repo collects papers, docs, codes about neuromorphic hardware for anyone wh
 - [[IEEE-TBioCAS](https://ieeexplore.ieee.org/abstract/document/10132492)] A 510μW 0.738-mm2 6.2-pJ/SOP Online Learning Multi-Topology SNN Processor with Unified Computation Engine in 40-nm CMOS. [__`digital`__][__`asic`__]
 - [[IEEE-TCAS-II](https://ieeexplore.ieee.org/abstract/document/10143982)] A 24.3μJ/Image SNN Accelerator for DVS-Gesture with WS-LOS Dataflow and Sparse Methods. [__`digital`__][__`asic`___]
 - [[IEEE-ISSCC](https://ieeexplore.ieee.org/document/10067650)] 22.6 ANP-I: A 28nm 1.5pJ/SOP Asynchronous Spiking Neural Network Processor Enabling Sub-O.1 μJ/Sample On-Chip Learning for Edge-AI Applications. [__`digital`__][__`asic`__][__`async`__]
-- [[IEEE-TCAD](https://ieeexplore-ieee-org.ezproxy.biblio.polito.it/document/9914608)] SATA: Sparsity-Aware Training Accelerator for Spiking Neural Networks [__`digital`__][__`asic`__] 
+- [[IEEE-TCAD](https://ieeexplore.ieee.org/abstract/document/9914608)] SATA: Sparsity-Aware Training Accelerator for Spiking Neural Networks [__`digital`__][__`asic`__] 
 - [[IEEE-COOL-CHIPS](https://ieeexplore.ieee.org/document/10121940)] COOL-NPU: Complementary Online Learning Neural Processing Unit with CNN-SNN Heterogeneous Core and Event-driven Backpropagation.
 - [[IEEE-TCAS-I](https://ieeexplore.ieee.org/abstract/document/10160227)] An 82-nW 0.53-pJ/SOP Clock-Free Spiking Neural Network With 40- μ s Latency for AIoT Wake-Up Functions Using a Multilevel-Event-Driven Bionic Architecture and Computing-in-Memory Technique. [__`async`__][__`asic`__][__`imc`__][__`mixed-signal`__]
 
