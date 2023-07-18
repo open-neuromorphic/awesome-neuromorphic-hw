@@ -49,6 +49,7 @@ This repo collects papers, docs, codes about neuromorphic hardware for anyone wh
 - [[IEEE-COOL-CHIPS](https://ieeexplore.ieee.org/document/10121940)] COOL-NPU: Complementary Online Learning Neural Processing Unit with CNN-SNN Heterogeneous Core and Event-driven Backpropagation.
 - [[IEEE-TCAS-I](https://ieeexplore.ieee.org/abstract/document/10160227)] An 82-nW 0.53-pJ/SOP Clock-Free Spiking Neural Network With 40- μ s Latency for AIoT Wake-Up Functions Using a Multilevel-Event-Driven Bionic Architecture and Computing-in-Memory Technique. [__`async`__][__`asic`__][__`imc`__][__`mixed-signal`__]
 - [[IEEE-AICAS](https://arxiv.org/abs/2307.06084)] Neuromorphic analog circuits for robust on-chip always-on learning in spiking neural networks. [__`asic`__][__`mixed-signal`__][__`on-chip-learning`__]
+- [[ArXiv](https://arxiv.org/abs/2307.08116)] Scaling Limits of Memristor-Based Routers for Asynchronous Neuromorphic Systems. [__`mixed-signal`__][__`memristive`__]
 
 ### 2022
 
