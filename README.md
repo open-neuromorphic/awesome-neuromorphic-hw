@@ -30,6 +30,7 @@ This repo collects papers, docs, codes about neuromorphic hardware for anyone wh
 
 ### 2023
 
+- [[IEEE-JETCAS](https://ieeexplore.ieee.org/document/10271336)] C-DNN V2: Complementary Deep-Neural-Network Processor with Full-Adder/OR-based Reduction Tree and Reconfigurable Spatial Weight Reuse [__`digital`__][__`asic`__]
 - [[IEEE-TVLSI](https://arxiv.org/abs/2301.01905)] FireFly: A High-Throughput and Reconfigurable Hardware Accelerator for Spiking Neural Networks. [__`digital`__][__`fpga`__]
 - [[IEEE-ISCAS](https://arxiv.org/abs/2302.01015)] OpenSpike: An OpenRAM SNN Accelerator. [__`digital`__][__`asic`__][__`open-source`__][[Code](https://github.com/sfmth/OpenSpike)]
 - [[ArXiv](https://arxiv.org/abs/2212.01696)] THOR -- A Neuromorphic Processor with 7.29G TSOP2/mm2Js Energy-Throughput Efficiency. [__`digital`__][__`asic`__]
