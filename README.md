@@ -28,7 +28,7 @@ This repo collects papers, docs, codes about neuromorphic hardware for anyone wh
 
 ### 2023
 
-- [[ArXiv](https://arxiv.org/abs/2310.00564)] DYNAP-SE2: a scalable multi-core dynamic neuromorphic asynchronous spiking neural network processor [__`digital`__][__`asic`__][__`async`__]
+- [[ArXiv](https://arxiv.org/abs/2310.00564)] DYNAP-SE2: a scalable multi-core dynamic neuromorphic asynchronous spiking neural network processor [__`mixed-signal`__][__`asic`__][__`async`__]
 - [[ArXiv](https://arxiv.org/abs/2309.16158)] FireFly v2: Advancing Hardware Support for High-Performance Spiking Neural Network with a Spatiotemporal FPGA Accelerator [__`digital`__][__`fgpa`__]
 - [[IEEE-JETCAS](https://ieeexplore.ieee.org/document/10271336)] C-DNN V2: Complementary Deep-Neural-Network Processor with Full-Adder/OR-based Reduction Tree and Reconfigurable Spatial Weight Reuse [__`digital`__][__`asic`__]
 - [[IEEE-TVLSI](https://arxiv.org/abs/2301.01905)] FireFly: A High-Throughput and Reconfigurable Hardware Accelerator for Spiking Neural Networks. [__`digital`__][__`fpga`__]
