@@ -28,9 +28,11 @@ This repo collects papers, docs, codes about neuromorphic hardware for anyone wh
 
 ### 2023
 
+- [[IEEE-JETCAS](https://ieeexplore.ieee.org/document/10304185)] Programming Weights to Analog In-Memory Computing Cores by Direct Minimization of the Matrix-Vector Multiplication Error. [__`asic`__][__`imc`__][__`memristive`__][__`mixed-signal`__]
+- [[IEEE-JETCAS](https://ieeexplore.ieee.org/document/10286500)] Multicore Spiking Neuromorphic Chip in 180-nm with ReRAM Synapses and Digital Neurons. [__`asic`__][__`imc`__][__`memristive`__][__`mixed-signal`__]
 - [[IEEE-JETCAS](https://ieeexplore.ieee.org/abstract/document/10268434)] Tempo-CIM: A RRAM Compute-in-Memory Neuromorphic Accelerator with Area-Efficient LIF Neuron and Split-Train-Merged-Inference Algorithm for Edge AI Application [__`asic`__][__`imc`__][__`memristive`__]
 - [[IEEE-TVLSI](https://ieeexplore.ieee.org/abstract/document/10269541)] Power-Aware Neuromorphic Architecture With Partial Voltage Scaling 3-D Stacking Synaptic Memory [__`asic`__][__`imc`__]
-- [[IEEE-TED](https://ieeexplore.ieee.org/abstract/document/10272308)] Neuromorphic Accelerator for Spiking Neural Network Using SOT-MRAM Crossbar Array [__`asic`__][__`imc`__][__`memristive`__]
+- [[IEEE-TED](https://ieeexplore.ieee.org/abstract/document/10272308)] Neuromorphic Accelerator for Spiking Neural Network Using SOT-MRAM Crossbar Array [__`mixed-signal`__][__`asic`__][__`imc`__][__`memristive`__]
 - [[ArXiv](https://arxiv.org/abs/2310.00564)] DYNAP-SE2: a scalable multi-core dynamic neuromorphic asynchronous spiking neural network processor [__`mixed-signal`__][__`asic`__][__`async`__]
 - [[ArXiv](https://arxiv.org/abs/2309.16158)] FireFly v2: Advancing Hardware Support for High-Performance Spiking Neural Network with a Spatiotemporal FPGA Accelerator [__`digital`__][__`fgpa`__]
 - [[IEEE-JETCAS](https://ieeexplore.ieee.org/document/10271336)] C-DNN V2: Complementary Deep-Neural-Network Processor with Full-Adder/OR-based Reduction Tree and Reconfigurable Spatial Weight Reuse [__`digital`__][__`asic`__]
